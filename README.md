@@ -1,3 +1,9 @@
+Thành viên trong nhóm:
+
+Trần Trung Thành - 18021174
+
+Nguyễn Tiến Trọng - 18020056
+
 This Back-end use MySQL.
 
 - Import src/main/resources/databse/final.sql to MySQL.
