@@ -1,5 +1,7 @@
 This Back-end use MySQL.
 
+- Import src/main/resources/databse/final.sql to MySQL.
+
 - Change application.properties to src/main/resources with below content
 
 ```
@@ -8,8 +10,6 @@ spring.datasource.url= jdbc:mysql://localhost:3306/students
 spring.datasource.username= //username
 spring.datasource.password= //password 
 ```
-
-- Import resources/databse/final.sql to MySQL.
 
 - Run DemoApplication.
 
